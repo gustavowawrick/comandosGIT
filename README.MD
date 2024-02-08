@@ -1,5 +1,5 @@
 ## Cria um arquivo README.md com o título do repositório
-````
+```
 echo "# comandosGIT" >> README.md
 ```
 
